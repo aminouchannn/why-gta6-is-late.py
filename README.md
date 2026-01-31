@@ -1,7 +1,5 @@
 # AmirBot Simulator – The Most Predictable Human NPC Ever
 
-![Amir ragequit energy](https://via.placeholder.com/728x90.png?text=Amir+Ragequit+Detected)  
-*(Replace this with a funny screenshot or meme of Amir if you want)*
 
 This repo contains two things:
 
